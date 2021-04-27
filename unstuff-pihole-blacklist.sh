@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Un-stuffing Pihole Blacklist of regular words"
+echo "Un-stuffing Pihole blacklist of regular words"
 
 echo "Sleeping for 3 seconds. Press CTRL + C to cancel!"
 
