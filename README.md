@@ -10,7 +10,7 @@ So the way this works, it basically brute forces the command to delete a whiteli
 
 Of course, you can use your own wordlist, just replace mine using the same name, or if you're feeling up to it, modify the code for the new filename (should be easy)
 
-**WARNING:** This will remove some TLD's (ex. "is" is a TLD but also a common word) but it is better than nuking your entire blocklist.
+**WARNING:** This will remove some TLD extensions (ex. "is" is a TLD extension but also a common word) but it is better than nuking your entire blocklist.
 
 Enjoy ;)
 
